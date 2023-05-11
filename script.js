@@ -1,2 +1,12 @@
-let yourArray=[2,4,"don","van",true,false]
-console.log(yourArray)
+let your{
+	{
+      one: 1,
+      two: 2
+    },
+    {
+      three: 3,
+      four: 4
+    }
+  ],
+}
+console.log(your)
